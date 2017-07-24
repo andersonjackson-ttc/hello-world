@@ -1,3 +1,3 @@
 # hello-world
 First Github repository
-Something about myself.
+A little more about myself.
